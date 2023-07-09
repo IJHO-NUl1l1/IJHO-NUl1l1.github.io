@@ -11,7 +11,7 @@ title: "봉사처 조사"
 * 시간: 약 30분
 * 봉사가능 시간: 13 ~ 18시
 * 특이사항: 카페 가입 후 개별로 봉사 신청 필요.<br>
-  평일&주말 구분없이 하루 3명 제한(카페 내 캘린더 확인 후 봉사신청).<br>
+  평일&주말 구분없이 하루 3명 제한(카페 내 [캘린더](https://calendar.google.com/calendar/u/0/embed?src=inca.happydog.official@gmail.com&ctz=Asia/Seoul) 확인 후 봉사신청).<br>
 * 링크: [행복한 유기견 생활 다음 카페](https://cafe.daum.net/ccchappydog)
 <br>
 
