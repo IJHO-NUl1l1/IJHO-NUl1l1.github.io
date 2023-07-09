@@ -18,12 +18,13 @@ title: "봉사처 조사"
 
 ### 2.인천시수의사회 동물보호소
 
-* <span style="font-size:50">위치: 인천광역시 계양구 다남로 165번길 56</span>
-* 시간: 약 1시간 30분
-* 봉사가능 시간: 9 ~ 12시
-* 특이사항: 시작 시간 9시 고정
-* 링크: [인천시수의사회 동물보호소 다음 카페](https://cafe.daum.net/inchunanimal)
-
+<span style="font-size:50">
+  위치: 인천광역시 계양구 다남로 165번길 56<br>
+  시간: 약 1시간 30분<br>
+  봉사가능 시간: 9 ~ 12시<br>
+  특이사항: 시작 시간 9시 고정<br>
+  링크: [인천시수의사회 동물보호소 다음 카페](https://cafe.daum.net/inchunanimal)<br>
+</span>
 <br>
    
          
