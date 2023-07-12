@@ -1,13 +1,12 @@
 # main links
 main:
-  study-nav:
-    - title: Posting
-      children:
-        - title: MeongNyang
-        - url: /categories/post/MeongNyang
-      children: 
-        -title: Careely
-        -url: /categories/post/Careely
+  - title: Posting
+    children:
+      - title: MeongNyang
+      - url: /categories/posts/MeongNyang
+    children: 
+      -title: Careely
+      -url: /categories/post/Careely
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
