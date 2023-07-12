@@ -2,6 +2,11 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+ study-nav:
+  - title: 컴퓨터 전공
+    children:
+      - title: 객체지향 프로그래밍
+        url:    /categories/object_oriented.html
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
