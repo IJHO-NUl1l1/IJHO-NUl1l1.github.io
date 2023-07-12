@@ -3,10 +3,10 @@ main:
   - title: Posting
     children:
       - title: MeongNyang
-      - url: https://ijho-nul1l1.github.io/_post/MeongNyang
+      - url: /categories/post/MeongNyang
     children: 
       -title: Careely
-      -url: https://ijho-nul1l1.github.io/_post/Careely
+      -url: /categories/post/Careely
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
