@@ -3,7 +3,7 @@ main:
   - title: Posting
     children:
       - title: MeongNyang
-      - url: /categories/posts/MeongNyang
+      - url: /categories/posts/MeongNyang.html
     children: 
       -title: Careely
       -url: /categories/post/Careely
