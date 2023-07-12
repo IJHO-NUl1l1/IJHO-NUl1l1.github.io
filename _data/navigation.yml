@@ -1,9 +1,12 @@
 # main links
 main:
-  - title: 컴퓨터 전공
+  - title: Posting
     children:
-      - title: 객체지향 프로그래밍
-        url:    /categories/object_oriented.html
+      - title: MeongNyang
+        url:    /_post/MeongNyang
+    children: 
+      -title: Careely
+      -url: /_post/Careely
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
