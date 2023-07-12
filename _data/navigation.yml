@@ -1,6 +1,5 @@
 # main links
 main:
- study-nav:
   - title: 컴퓨터 전공
     children:
       - title: 객체지향 프로그래밍
