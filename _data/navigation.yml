@@ -6,7 +6,7 @@ main:
       - url: /categories/posts/MeongNyang.html
     children: 
       -title: Careely
-      -url: /categories/post/Careely
+      -url: /categories/posts/Careely.html
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
